@@ -1,0 +1,93 @@
+.pana{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    list-style: none;
+    justify-content: space-around;
+    background-color: lightskyblue;
+    border: 3px lightskyblue 5px;
+    border-radius: 22px;
+}
+
+.img1{
+   margin-top: 20px;
+   width: 100%;
+   height: 400px;
+}
+
+.fle1{
+  display: flex;
+  flex-direction: row;
+  margin-left: auto;
+  margin-top: 25px;
+}
+
+.flep{
+    
+    width: 600px;
+}
+
+.fle2{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    margin-right: 100px;
+  }
+  
+  .flep2{
+      
+      width: 600px;
+      margin-left: 320px;
+  }
+  .fle3{
+      margin-left: 0px;
+  }
+
+  .mr2{
+      margin-left: 30px;
+  }
+  .copy1{
+      background-color: blue;
+      margin-top: 0px;
+      color: white;
+      text-align: center;
+      margin-top: 329px;
+  }
+  
+  .copy1a{
+    background-color: blue;
+    margin-top: 0px;
+    color: white;
+    text-align: center;
+    margin-top: 66px;
+}
+
+.copyp{
+    background-color: blue;
+    margin-top: 0px;
+    color: white;
+    text-align: center;
+    margin-top: 251px;
+}
+.form1{
+    margin-top: 50px;
+}
+.form2{
+    margin-top: 40px;
+}
+
+
+.copyf{
+    background-color: blue;
+    margin-top: 0px;
+    color: white;
+    text-align: center;
+    margin-top: 365px;
+}
+body{
+    max-width: 800px;
+    margin-left: 450px;
+    background-color: crimson;
+}
